@@ -1,4 +1,15 @@
 #include<iostream>
 using namespace std;
-int main(){printf("hello world");return 0;
+int main(){
+
+    cout<<"Hello";
+    cout<<"Hello";
+    cout<<"Hello";
+    cout<<"Hello";
+
+
+
+
+return 0;
+
           }
